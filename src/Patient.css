@@ -1,0 +1,12 @@
+.actions-cell {
+    display: flex;
+}
+
+td {
+    align-items: center;
+}
+
+button {
+    margin: 5px;
+    justify-content: right;
+}
